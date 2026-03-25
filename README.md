@@ -352,7 +352,7 @@ The interface should expose only what matters, with strong tactile logic and min
 
 ## Summary
 
-NX Guitar is a concept for a modern electric guitar with integrated per-string DSP and an embedded physical control surface.
+Phantom is a concept for a modern electric guitar with integrated per-string DSP and an embedded physical control surface.
 
 Its defining characteristics are:
 
