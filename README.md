@@ -33,7 +33,7 @@ The result is a guitar that behaves like an instrument, not a gadget.
 ## Core Design Philosophy
 
 ### 1. Guitar first
-NX Guitar is designed as a serious instrument with a rigid body, stable structure, and performance-ready ergonomics. The digital system is integrated into the instrument architecture, but it does not redefine the guitar as a consumer electronics device.
+Phantom is designed as a serious instrument with a rigid body, stable structure, and performance-ready ergonomics. The digital system is integrated into the instrument architecture, but it does not redefine the guitar as a consumer electronics device.
 
 ### 2. Audio, not MIDI
 The system is built around **real-time audio-domain processing**, not MIDI conversion. The project avoids reducing guitar playing into note events and instead preserves:
@@ -49,7 +49,7 @@ The system is built around **real-time audio-domain processing**, not MIDI conve
 Each string is treated as its own signal path. This enables more precise DSP, cleaner alternate tunings, better harmonization, and far more reliable polyphonic processing than a mixed mono pickup path.
 
 ### 4. Hardware UI, not app UI
-The control surface is intentionally physical. NX Guitar does not present itself as a guitar with a screen attached. Instead, it uses a dedicated control plate with tactile controls, protected status displays, and single-color illumination suitable for live performance.
+The control surface is intentionally physical. Phantom does not present itself as a guitar with a screen attached. Instead, it uses a dedicated control plate with tactile controls, protected status displays, and single-color illumination suitable for live performance.
 
 ### 5. Restrained visual language
 The project avoids excessive RGB lighting, large touch displays, and flashy consumer-tech styling. The intended character is premium, dark, minimal, mechanical, and stage-safe.
@@ -76,7 +76,7 @@ The aesthetic target is a guitar that can stand beside professional rack gear, s
 
 ## UI Philosophy
 
-The Phantom control surface is designed as a **hardware panel embedded into the guitar body**.
+Phantom control surface is designed as a **hardware panel embedded into the guitar body**.
 
 It is not a touchscreen interface. It is a tactile control system with protected status displays and a clear live-performance logic.
 
