@@ -1,5 +1,9 @@
 
-![Preview](/images/model/sketch/modelpreview02.png)
+![Preview](/images/model/sketch/design01.png)
+![Preview](/images/model/sketch/design02.png)
+![Preview](/images/model/sketch/design03.png)
+![Preview](/images/model/sketch/design04.png)
+![Preview](/images/model/sketch/design05.png)
 
 ![Preview](/images/model/sketch/modelpreview03.png)
 
