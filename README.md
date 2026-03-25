@@ -1,4 +1,3 @@
-![Preview](/images/model/sketch/modelpreview01.png)
 
 ![Preview](/images/model/sketch/modelpreview02.png)
 
